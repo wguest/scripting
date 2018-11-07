@@ -2,7 +2,7 @@
 # Testing: This script was tested against Windows Server 2016 IIS 10 FTP
 # Issues: Will not work for unix FTP in current state since we use "DIR" regex to determine folders.
 # Author: Wade Guest (https://github.com/wguest/ftpw_writeable.py)
-# Last Modified Date: 07/11/2-18
+# Last Modified Date: 07/11/2018
 
 # Future improvements:
 # - More command line options for timeout, specifying directories, etc.
