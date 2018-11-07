@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Purpose: This script takes an FTP server and will scan for any directories this user can write to.
 # Testing: This script was tested against Windows Server 2016 IIS 10 FTP
 # Issues: Will not work for unix FTP in current state since we use "DIR" regex to determine folders.
