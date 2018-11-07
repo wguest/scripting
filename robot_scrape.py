@@ -2,8 +2,7 @@
 
 # Purpose: This script is supplied information to connect to a web server. It then checks for a robots.txt file and downloads a local copy of each disallowed entry.
 #			I wanted to create this script as I got tired of doing it in bash all the time.
-# Testing: This script was tested against Windows Server 2016 IIS 10 FTP
-# Issues: Will not work for unix FTP in current state since we use "DIR" regex to determine folders.
+# Testing: This script was tested against Windows Server 2016 IIS 10
 # Author: Wade Guest (https://github.com/wguest/scripting)
 # Last Modified Date: 07/11/2018
 
